@@ -1,0 +1,6 @@
+@JwtAuthenticationAndRoleBasedAuthorization_HostAddress = http://localhost:5225
+
+GET {{JwtAuthenticationAndRoleBasedAuthorization_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
